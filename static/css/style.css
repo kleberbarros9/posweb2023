@@ -1,0 +1,18 @@
+div{
+    margin-left: 100px;
+}
+
+
+.div-topo{
+    margin-left: 200px!important; 
+}
+
+
+#div-geral{
+    margin-left: 300px;
+}
+
+
+p{
+    text-decoration: underline;
+}
